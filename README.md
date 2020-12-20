@@ -73,7 +73,7 @@
 			</style>
 			<div class="container">
 				<h1>Made with HTML &amp; CSS<br/> Dylan Marion </h1>
-        <h1>Made with HTML &amp; CSS<br/> Engineering student </h1>
+        			
 			</div>
 		</div>
 	</foreignObject>
